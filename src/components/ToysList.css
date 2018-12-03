@@ -1,0 +1,33 @@
+.toy_pic
+{
+  width: 21% !important;
+  margin-left: 7%;
+
+}
+.title{
+  margin-top: 3% !important;
+  color: #a0737b !important;
+  text-align:center !important;
+}
+.ui.button {
+  border-radius: 15px !important;
+  background: #0a0a0a none !important;
+  color: rgba(212, 135, 135, 0.6) !important;
+  width: 28% !important;
+  height: 37px !important;
+  position: absolute !important;
+  left: 35% !important;
+  margin-top: -12% !important;
+  }
+  .item{
+    padding-bottom: 5% !important;
+  }
+  .detail{
+    margin-top: 9% !important;
+    border: 1px solid black !important;
+    height: 141px !important;
+    padding: 12px !important;
+    border-radius: 15px !important;
+    width: 20% !important;
+    color: #a0737b !important;
+  }
